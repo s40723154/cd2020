@@ -24,6 +24,21 @@
 <v t="leo.20180902120523.11"><vh>week2</vh>
 <v t="leo.20180902120523.12"><vh>week2</vh></v>
 </v>
+<v t="leo.20200630180004.1"><vh>week3~5</vh>
+<v t="leo.20200630180004.2"><vh>week3~5</vh></v>
+</v>
+<v t="leo.20200630180035.1"><vh>week6~8</vh>
+<v t="leo.20200630180035.2"><vh>week6~8</vh></v>
+</v>
+<v t="leo.20200630180040.1"><vh>week9~10</vh>
+<v t="leo.20200630180040.2"><vh>week9~10</vh></v>
+</v>
+<v t="leo.20200630180046.1"><vh>week13~16</vh>
+<v t="leo.20200630180046.2"><vh>week13~16</vh></v>
+</v>
+<v t="leo.20200630180050.1"><vh>end</vh>
+<v t="leo.20200630180050.2"><vh>end</vh></v>
+</v>
 <v t="leo.20200630155226.1"><vh>快捷鍵</vh>
 <v t="leo.20200630155226.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -72,18 +87,19 @@ Created by [40723154](https://s40723154.github.io/cd2020/content/index.html)
 
 *w2
 *更新Python 3.8.2
+
 *1.進入 https://www.python.org/downloads/release/python-382/
+
 *2.下載Windows x86-64 executable installer
+
 *3.下載完成後開啟，選擇Customize installation選項
-*4.不要勾選pip選項，接著按下next
-*5.選擇路徑將python安裝至可攜式系統中的Y槽下
-*6.接著開啟start_mdecourse.bat批次檔
-*7.將start_mdecourse.bat批次檔中的py373改為安裝python 3.8.2版本的資料夾
-*8.將安裝的版本資料夾取名為py382
-*9.執行stop.bat批次檔後重新啟動start_mdecourse(為了讓檔案重新讀取)
-*10.輸入get-pip.py，開始安裝pip工具
-*11.安裝cmsimde所需模組
-*12.版本已更新至 python 3.8.2</t>
+
+*4.將start_mdecourse.bat批次檔中的py373改為安裝python 3.8.2版本的資料夾
+
+*5.執行stop.bat批次檔後重新啟動
+
+*6.安裝cmsimde所需模組 完成
+</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -349,6 +365,86 @@ vertical: body pane on the botton</t>
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
+</t>
+<t tx="leo.20200630180004.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180004.2"># week3~5
+
+*翻譯Coppelia Simwebots部分內容
+</t>
+<t tx="leo.20200630180035.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180035.2"># week6~8
+
+*w6~8
+
+*完成分配到的webots tutorial工作內容
+
+*學習使用obs拍攝影片和學習coppeliasim
+
+*學習pyson語法 方便在coppeliasimeliasim上使用
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AM4ipUDx024" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630180040.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180040.2"># week9~10
+
+*w9~10
+
+*閱讀TOP0文章
+
+*學習使用onshape利用onshape畫各組別分配到的汽車零件</t>
+<t tx="leo.20200630180046.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180046.2"># week13~16
+
+*w13~16
+
+*下載virtual box 並學習如何使用
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mCFC2VXzIDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+*嘗試用IPV4操控4輪車
+
+*IPV6設定
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/R7Yr3hue1gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630180050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180050.2"># end
 </t>
 </tnodes>
 </leo_file>
