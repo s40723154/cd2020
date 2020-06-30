@@ -42,6 +42,42 @@
 <v t="leo.20200630184336.1"><vh>week13~16</vh>
 <v t="leo.20200630184336.2"><vh>week13~16</vh></v>
 </v>
+<v t="leo.20200630190225.1"><vh>week2直播影片</vh>
+<v t="leo.20200630190225.2"><vh>week2直播影片</vh></v>
+</v>
+<v t="leo.20200630190251.1"><vh>week3直播影片</vh>
+<v t="leo.20200630190251.2"><vh>week3直播影片</vh></v>
+</v>
+<v t="leo.20200630190257.1"><vh>week5直播影片</vh>
+<v t="leo.20200630190257.2"><vh>week5直播影片</vh></v>
+</v>
+<v t="leo.20200630190300.1"><vh>week6直播影片</vh>
+<v t="leo.20200630190300.2"><vh>week6直播影片</vh></v>
+</v>
+<v t="leo.20200630190302.1"><vh>week7直播影片</vh>
+<v t="leo.20200630190302.2"><vh>week7直播影片</vh></v>
+</v>
+<v t="leo.20200630191757.1"><vh>week7直播影片</vh>
+<v t="leo.20200630191757.2"><vh>week7直播影片</vh></v>
+</v>
+<v t="leo.20200630190305.1"><vh>week9直播影片</vh>
+<v t="leo.20200630190305.2"><vh>week9直播影片</vh></v>
+</v>
+<v t="leo.20200630190308.1"><vh>week10直播影片</vh>
+<v t="leo.20200630190308.2"><vh>week10直播影片</vh></v>
+</v>
+<v t="leo.20200630190310.1"><vh>week11直播影片</vh>
+<v t="leo.20200630190310.2"><vh>week11直播影片</vh></v>
+</v>
+<v t="leo.20200630190312.1"><vh>week12直播影片</vh>
+<v t="leo.20200630190312.2"><vh>week12直播影片</vh></v>
+</v>
+<v t="leo.20200630190317.1"><vh>week14直播影片</vh>
+<v t="leo.20200630190317.2"><vh>week14直播影片</vh></v>
+</v>
+<v t="leo.20200630190722.1"><vh>week15直播影片</vh>
+<v t="leo.20200630190722.2"><vh>week15直播影片</vh></v>
+</v>
 <v t="leo.20200630180050.1"><vh>end</vh>
 <v t="leo.20200630180050.2"><vh>end</vh></v>
 </v>
@@ -469,5 +505,143 @@ vertical: body pane on the botton</t>
 
 *IPV6設定
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/R7Yr3hue1gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190225.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190225.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JXUKf0cfJcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200630190251.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190251.2"># 直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QTfPD5bpeKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190257.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190257.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ElNea4b1dX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200630190300.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190300.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B6jt5OAf424" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200630190302.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190302.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yuZwLYHovUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190305.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190305.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/opi_PrsUMW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200630190308.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190308.2"># 直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HauW6F-ez7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190310.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190310.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y-v5v3glZM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190312.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190312.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Fwt_LDqD964" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190317.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Oz_qyhhmopk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630190722.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630190722.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/T4lDjSueeW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630191757.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630191757.2"># 直播影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6mpEdgL3Q4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
