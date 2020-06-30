@@ -30,11 +30,17 @@
 <v t="leo.20200630180035.1"><vh>week6~8</vh>
 <v t="leo.20200630180035.2"><vh>week6~8</vh></v>
 </v>
+<v t="leo.20200630184217.1"><vh>week6~8</vh>
+<v t="leo.20200630184217.2"><vh>week6~8</vh></v>
+</v>
 <v t="leo.20200630180040.1"><vh>week9~10</vh>
 <v t="leo.20200630180040.2"><vh>week9~10</vh></v>
 </v>
 <v t="leo.20200630180046.1"><vh>week13~16</vh>
 <v t="leo.20200630180046.2"><vh>week13~16</vh></v>
+</v>
+<v t="leo.20200630184336.1"><vh>week13~16</vh>
+<v t="leo.20200630184336.2"><vh>week13~16</vh></v>
 </v>
 <v t="leo.20200630180050.1"><vh>end</vh>
 <v t="leo.20200630180050.2"><vh>end</vh></v>
@@ -85,20 +91,17 @@ Created by [40723154](https://s40723154.github.io/cd2020/content/index.html)
 </t>
 <t tx="leo.20180902120523.12"># week2
 
-*w2
 *更新Python 3.8.2
 
-*1.進入 https://www.python.org/downloads/release/python-382/
+*1.下載Windows x86-64 executable installer
 
-*2.下載Windows x86-64 executable installer
+*2.下載完成後開啟，選擇Customize installation選項
 
-*3.下載完成後開啟，選擇Customize installation選項
+*3.將start_mdecourse.bat批次檔中的py373改為安裝python 3.8.2版本的資料夾
 
-*4.將start_mdecourse.bat批次檔中的py373改為安裝python 3.8.2版本的資料夾
+*4.執行stop.bat批次檔後重新啟動
 
-*5.執行stop.bat批次檔後重新啟動
-
-*6.安裝cmsimde所需模組 完成
+*5.安裝cmsimde所需模組 完成
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
@@ -390,15 +393,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200630180035.2"># week6~8
 
-*w6~8
-
 *完成分配到的webots tutorial工作內容
 
 *學習使用obs拍攝影片和學習coppeliasim
 
 *學習pyson語法 方便在coppeliasimeliasim上使用
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AM4ipUDx024" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="leo.20200630180040.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -409,8 +410,6 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200630180040.2"># week9~10
-
-*w9~10
 
 *閱讀TOP0文章
 
@@ -426,15 +425,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200630180046.2"># week13~16
 
-*w13~16
-
 *下載virtual box 並學習如何使用
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mCFC2VXzIDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-*嘗試用IPV4操控4輪車
-
-*IPV6設定
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/R7Yr3hue1gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="leo.20200630180050.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -446,5 +440,34 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200630180050.2"># end
 </t>
+<t tx="leo.20200630184217.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630184217.2"># week6~8
+
+*w6~8影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AM4ipUDx024" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630184336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630184336.2"># week13~16
+
+*嘗試用IPV4操控4輪車
+
+*IPV6設定
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/R7Yr3hue1gM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
